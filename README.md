@@ -2,8 +2,11 @@
 
 基于嘉立创天空星STM32的一套基本框架，包含了对循迹、步进电机驱动、激光控制的支持
 
+![alt text](image.png)
 <video controls src="方向控制.mp4" title="Title"></video>
+
 <video controls src="阿克曼小车.mp4" title="Title"></video>
+
 <video controls src="四轮驱动小车.mp4" title="Title"></video>
 
 ## 可以做成循迹小车
